@@ -1,16 +1,10 @@
-# १. आवश्यक प्याकेजहरूको सूची
-
+                                     Nepse-Dashboard
 streamlit
 pandas
 plotly
 beautifulsoup4
 requests
 pyngrok
-
-# २. गिटहबको लागि आकर्षक README.md
-%%writefile README.md
-# 📈 NEPSE Automated Data Engineering & Analytics Dashboard
-Developed by: **Prem Narayan Bashyal** (Data Platform Infrastructure)
 
 An enterprise-ready Python data pipeline that automates the extraction of live market metrics from the Nepal Stock Exchange (NEPSE), processes structural data via vectorized Pandas dataframes, and visualizes market intelligence through a high-fidelity Streamlit interface.
 
